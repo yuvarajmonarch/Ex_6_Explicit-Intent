@@ -2,11 +2,10 @@
 ## PROGRAM:
 Program to print the text “ExplicitIntent”.
 
-Developed by: Jashwana Fathima S
+Developed by: JANARTHANAN S
 
-Registeration Number : 212222040059
+Registeration Number : 212222040058
 
-Date : 23.09.2024
 
 ## AIM:
 
